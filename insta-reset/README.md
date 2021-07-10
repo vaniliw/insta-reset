@@ -1,1 +1,1 @@
-python script for password reset instagram
+#python script for password reset instagram
